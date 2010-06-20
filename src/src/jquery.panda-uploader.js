@@ -1,4 +1,4 @@
-(function(){
+(function($){
 
 UPLOADING=0
 STOP=1
@@ -395,4 +395,4 @@ function bondage(object, method_name) {
     }
 }
 
-})();
+})(jQuery);
